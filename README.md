@@ -1,30 +1,54 @@
-# React + TypeScript + Vite
+# 🧠 Bitflow Code
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Bitflow Code** es un editor de código moderno, liviano y veloz. Diseñado para brindar una experiencia de desarrollo limpia, simple y eficiente, ideal tanto para principiantes como para desarrolladores avanzados.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Versión actual: `v0.0.1`
 
-## Expanding the ESLint configuration
+### ✅ Características:
+- Compatible con HTML, CSS y JavaScript.
+- Interfaz minimalista enfocada en la productividad.
+- Rápido, portable y sin instalación requerida.
+- Ideal para educación, desarrollo freelance y uso diario.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+### 📦 Plataforma disponible:
+- 🖥️ **Windows** (.exe standalone)
 
-- Configure the top-level `parserOptions` property like this:
+---
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+## 📅 Roadmap
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+### 🔜 v0.0.2 (Próximamente)
+- Soporte para **macOS** y **Linux**
+- Corrección de errores y optimización general
+
+---
+
+## 📥 Descarga
+
+> Podés descargar la última versión desde la sección [Releases](https://github.com/tuusuario/bitflow-code/releases).
+
+---
+
+## 🛠️ Cómo usar
+
+1. Descargá `BitflowCode-v0.0.1.exe`
+2. Ejecutalo (no requiere instalación)
+3. ¡Y comenzá a programar!
+
+---
+
+## 🧑‍💻 Contribuciones
+
+Próximamente se habilitará el repositorio open source para quienes quieran colaborar.
+
+---
+
+## 🧩 Licencia
+
+Este proyecto se publica bajo una licencia personalizada para Bitflow. Más detalles en breve.
+
+---
+
+Desarrollado con ❤️ por [BITFLOW](https://bitflow.com)  
